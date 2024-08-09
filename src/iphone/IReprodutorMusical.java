@@ -1,4 +1,4 @@
-package src;
+package src.iphone;
 
 public interface IReprodutorMusical {
 
