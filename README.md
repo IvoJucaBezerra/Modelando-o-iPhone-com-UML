@@ -11,6 +11,8 @@ Depois, crie uma nova classe chamada iPhone que implementará essas interfaces.
 
 Crie uma classe Main para testar.
 
+![MODELAGEM](https://github.com/IvoJucaBezerra/Modelando-o-iPhone-com-UML/blob/main/iphone_uml_diagram_v2.png)
+
 Usei a IDE IntelliJ. https://www.jetbrains.com/pt-br/idea/
 
 Me siga no https://www.linkedin.com/in/ivo-juca-bezerra/
